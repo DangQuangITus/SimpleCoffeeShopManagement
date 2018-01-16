@@ -1,0 +1,205 @@
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\bin\Debug\WFTest1.exe.config
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\bin\Debug\WFTest1.exe
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\bin\Debug\WFTest1.pdb
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.fLogin.resources
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.fTableManager.resources
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.Properties.Resources.resources
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.GenerateResource.Cache
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.exe
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.pdb
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.fAccount.resources
+C:\Users\MyPC\source\repos\WFTest1\WFTest1\obj\Debug\WFTest1.fAdmin.resources
+E:\GokkiTomoya\WFTest1\WFTest1\bin\Debug\WFTest1.exe.config
+E:\GokkiTomoya\WFTest1\WFTest1\bin\Debug\WFTest1.exe
+E:\GokkiTomoya\WFTest1\WFTest1\bin\Debug\WFTest1.pdb
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.csprojResolveAssemblyReference.cache
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.fAccount.resources
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.fAdmin.resources
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.fLogin.resources
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.fTableManager.resources
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.Properties.Resources.resources
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.GenerateResource.Cache
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.CoreCompileInputs.cache
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.exe
+E:\GokkiTomoya\WFTest1\WFTest1\obj\Debug\WFTest1.pdb
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\bin\Debug\WFTest1.exe.config
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\bin\Debug\WFTest1.exe
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\bin\Debug\WFTest1.pdb
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.csprojResolveAssemblyReference.cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fAccount.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fAdmin.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fLogin.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fTableManager.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.Properties.Resources.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.GenerateResource.Cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.CoreCompileInputs.cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.exe
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.pdb
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\bin\Debug\WFTest1.exe.config
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\bin\Debug\WFTest1.exe
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\bin\Debug\WFTest1.pdb
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fAccount.resources
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fAdmin.resources
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fLogin.resources
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fTableManager.resources
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.Properties.Resources.resources
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.GenerateResource.Cache
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.exe
+C:\Users\admin1\Downloads\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.pdb
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\bin\Debug\WFTest1.exe.config
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\bin\Debug\WFTest1.exe
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\bin\Debug\WFTest1.pdb
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fAccount.resources
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fAdmin.resources
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fLogin.resources
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.fTableManager.resources
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.Properties.Resources.resources
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.exe
+C:\Users\MyPC\Desktop\WFTest1\WFTest1\WFTest1\WFTest1\obj\Debug\WFTest1.pdb
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\WFTest1.exe.config
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\WFTest1.exe
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\WFTest1.pdb
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.csprojResolveAssemblyReference.cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.fAccount.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.fAdmin.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.fLogin.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.fTableManager.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.Properties.Resources.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.GenerateResource.Cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.csproj.CoreCompileInputs.cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.exe
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.pdb
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\obj\Debug\WFTest1.CreateAccount.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\EnvDTE.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\stdole.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\Microsoft.MSXML.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\EnvDTE80.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\cs\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\pl\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\tr\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\cs\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\pl\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\tr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\cs\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\pl\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\tr\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\cs\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\pl\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\tr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\WFTest1\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.csprojResolveAssemblyReference.cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.CreateAccount.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.fAccount.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.fAdmin.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.fLogin.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.fTableManager.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.Properties.Resources.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.csproj.GenerateResource.Cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.csproj.CoreCompileInputs.cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.exe
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\obj\Debug\WFTest1.pdb
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\bin\Debug\WFTest1.exe.config
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\bin\Debug\WFTest1.exe
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\bin\Debug\WFTest1.pdb
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\WFTest1\project v2\WFTest1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\bin\Debug\WFTest1.exe.config
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\bin\Debug\WFTest1.exe
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\bin\Debug\WFTest1.pdb
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.CreateAccount.resources
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fAccount.resources
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fAdmin.resources
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fLogin.resources
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fTableManager.resources
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.Properties.Resources.resources
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.csproj.GenerateResource.Cache
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.csproj.CoreCompileInputs.cache
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.exe
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.pdb
+C:\Users\admin1\Downloads\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fLoad.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\bin\Debug\WFTest1.exe.config
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\bin\Debug\WFTest1.exe
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\bin\Debug\WFTest1.pdb
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.csprojResolveAssemblyReference.cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.CreateAccount.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fAccount.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fAdmin.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fLoad.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fLogin.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.fTableManager.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.Properties.Resources.resources
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.csproj.GenerateResource.Cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.csproj.CoreCompileInputs.cache
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.exe
+D:\quang\NAM 3 DAI HOC\NM CONG NGHE PHAN MEM\đồ án\finalProject\project-v2 (1)\project-v2 (1)\WFTest1\obj\Debug\WFTest1.pdb
